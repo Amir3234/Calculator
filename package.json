@@ -1,0 +1,24 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "node": "^20.6.0",
+    "run": "^1.4.0"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.6.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
